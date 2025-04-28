@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user id="00">
+        <name>Dayron</name>
+        <lastName>Moreno</lastName>
+        <age>40</age>
+        <nationality>Colombian</nationality>
+    </user>
+    <user id="01">
+        <name>Critiano</name>
+        <lastName>Ronaldo</lastName>
+        <age>40</age>
+        <nationality>Portuguese</nationality>
+    </user>
+</users>
